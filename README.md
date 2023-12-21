@@ -49,7 +49,7 @@
 
 |이미지|데이터|
 |:----:|:----:|
-|<img src="./img/Sword.png"> <img src="./img/SwordObeject.png">|ID : 1<br/>이름 : 롱소드<br/>타입 : 근접<br/>인게임 설명 : 검이 캐릭터 주변을 돌며 적을 공격한다.<br/>공격력 : 2<br/>레벨 당 증가 공격력 : 0.5<br/>기본 개수 : 2<br/>레벨 당 증가 개수 : 1|
+|<img src="./img/Sword.png"> <img src="./img/SwordObject.bmp">|ID : 1<br/>이름 : 롱소드<br/>타입 : 근접<br/>인게임 설명 : 검이 캐릭터 주변을 돌며 적을 공격한다.<br/>공격력 : 2<br/>레벨 당 증가 공격력 : 0.5<br/>기본 개수 : 2<br/>레벨 당 증가 개수 : 1|
 |<img src="./img/Arrow.png"> <img src="./img/ArrowObject.bmp">|ID : 2<br/>이름 : 화살<br/>타입 : 원거리<br/>인게임 설명 : 빠른 속도로 적에게 화살을 쏜다.<br/>공격력 : 1<br/>레벨 당 증가 공격력 : 0.5<br/>기본 개수 : 2<br/>레벨 당 증가 개수 : 2|
 |<img src="./img/MagicArrow.png"> <img src="./img/MagicArrowObject.bmp">|ID : 3<br/>이름 : 마법 화살<br/>타입 : 원거리<br/>인게임 설명 : 느린 속도로 적을 관통하는 화살을 쏜다.<br/>공격력 : 3<br/>레벨 당 증가 공격력 : 1<br/>기본 개수 : 1<br/>레벨 당 증가 개수 : 0|
 |<img src="./img/ElectricField.png"> <img src="./img/ElectricFieldObject.bmp">|ID : 4<br/>이름 : 전기장<br/>타입 : 근접<br/>인게임 설명 : 주변의 적에게 피해를 주는 정전기장을 생성한다.<br/>공격력 : 1<br/>레벨 당 증가 공격력 : 0.2<br/>기본 개수 : 1<br/>레벨 당 증가 개수 : 0|
